@@ -21,6 +21,3 @@ Welcome to the Gizmo Helper! This is a simple double-click pop-up application de
 - If the application does not start:  
    Ensure that you have followed the steps to download and configure the app correctly.  
    If you still encounter issues, double-check that your Groq API key is entered correctly in the configuration file.
-
-- For any other issues:  
-   Please refer to the FAQ section or check the GitHub Issues page for support.
